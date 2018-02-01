@@ -7,7 +7,7 @@ TestS	;
 	s ^gg="here"
 	q 	
 x	;
-	s u=y   ; This is a modification  - again - 12
+	s u=y   ; This is a modification  - Test
 	q
 test ;
 	s ^gg="Error"
